@@ -11,7 +11,7 @@ public class AnimalNoise {
 		/*
 		 *
 		 * Add a call to your animal below this comment.
-		 * Gobble Gobble Gobble
+		 * Gobble Gobble Gobbl
 		 */
 
 		// Creating an instance of the Parrot class
