@@ -11,6 +11,7 @@ public class AnimalNoise {
 		/*
 		 * 
 		 * Add a call to your animal below this comment.
+		 * Gobble Gobble
 		 */
 
 		// Creating an instance of the Parrot class
@@ -19,5 +20,4 @@ public class AnimalNoise {
 		// Printing the result of the makeNoise method from the Parrot class
 		System.out.println(parrot.makeNoise());
 	}
-//Gobble
 }
