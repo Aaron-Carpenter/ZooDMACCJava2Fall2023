@@ -9,9 +9,9 @@ public class AnimalNoise {
 		System.out.println(example.makeNoise());
 		
 		/*
-		 * 
+		 *
 		 * Add a call to your animal below this comment.
-		 * Gobble Gobble
+		 * Gobble
 		 */
 
 		// Creating an instance of the Parrot class
